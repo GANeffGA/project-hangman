@@ -1,0 +1,72 @@
+{
+    box-sizing: border-box;
+    margin: 3vmin 3vmin 3vmin 3vmin;
+    
+     }
+    
+    
+     body{
+        background-color: rgba(255, 255, 255, 0.37);
+        height: 100vh;
+        margin: 0;
+        display: flex;
+        font-family: 'Gloria Hallelujah', cursive;
+        font-size: 4vmin;
+        color: rgb(33, 180, 202)
+     }
+    
+     header {
+        font-size: 8vmin;
+        color: rgb(1, 10, 10);
+        text-align: center;
+        padding: 65px;
+     }
+    
+     
+     
+     #pic {
+        
+        display: flex;
+        justify-content: center;
+        
+     }
+     #blank-spaces {
+       font-size: 6vmin;
+       display: flex;
+       justify-content: space-evenly;
+    
+     }
+    
+     #alphabets {
+       display: flex;
+       flex-direction: row;
+       flex-wrap: wrap;
+       gap: 1vmin;
+       
+     }
+     
+     
+    #alphabets > button{
+       background-color: rgb(196, 47, 158);
+       font-size: 6vmin;
+       display: flex;
+       margin: 4vmin;
+       justify-content: space-between;
+       border-radius: 20%;
+       font-family: 'Gloria Hallelujah', cursive;
+       
+    }
+    
+     
+    #new-game{
+       background-color: rgb(246, 74, 174);
+       font-size: 6vmin;
+       font-family:'Gloria Hallelujah', cursive;
+    }
+    
+    #new-btn {
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       width:100%
+    }
