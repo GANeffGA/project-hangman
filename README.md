@@ -4,7 +4,7 @@ Description: The play must guess the country correctly. Each round, the player g
 
 Technologies used: HTML, CSS, and Javascript.
 
-Next steps: Fix the image detector in my array of hangman images so it can display properly. 
+Next steps: Add and modify a randomizer of words based on an array of countries by continent. 
 
 Screenshots: Win/loss logic Win/Loss message
 ![hangman1](https://github.com/GANeffGA/project-hangman/assets/133476397/b8f8d8b5-fb17-4925-ae16-114ba8fd4964)
