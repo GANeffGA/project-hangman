@@ -1,21 +1,11 @@
-# project-hangman
+Title: Project - Hangman (Countries Edition)
 
--As a player, I want to see a virtual keyboard in the gamespace so I know what options I have for letters. 
-      -Everytime a guess is made, the letter and/or vowel in the virtual keyboard will fade. 
+Description: The play must guess the country correctly. Each round, the player gets 6 chances to complete the word puzzle. If the player fails 6 times, they lose the round. If they guess it right below 6 attempts, they win!
 
--As a player, I want to see the open and empty tiles, and have the space filled with the letters I pick(depending if they are correct).
-      -The amount of tiles will vary, depending on the word and/or object that needs to be guessed.
+Technologies used: HTML, CSS, and Javascript.
 
--As a player, I want to see how many turns I have left before the body of the man is fully built (will operate as the amount of chances left).
-      This count will be displayed by the bodyparts that are added to the noose. 
+Next steps: Fix the image detector in my array of hangman images so it can display properly. 
 
--As a player, I want to know when I've successfully completed the game!
-      -Optional: Add a soundbyte that tells the player they've won!
-      -Required: Create a tile that displays that the player won the round!
-
-
-Stretch goal: 
-
--As a player, I would like to see the amount of wins I have thus far. Preferably, I want to have it run as a win streak, and the count will reset when I lose.
--As a player, I would like to hear a soundbyte that tells me that my guess was incorrect.
--As a player, I would like to hear a soundbyte that tells me that my guess was correct!
+Screenshots: Win/loss logic Win/Loss message
+![hangman1](https://github.com/GANeffGA/project-hangman/assets/133476397/b8f8d8b5-fb17-4925-ae16-114ba8fd4964)
+![hangman2](https://github.com/GANeffGA/project-hangman/assets/133476397/2b3e70d1-6fd7-41d5-ac03-a21c22e32c4c)
