@@ -6,6 +6,6 @@ Technologies used: HTML, CSS, and Javascript.
 
 Next steps: Add and modify a randomizer of words based on an array of countries by continent. 
 
-Screenshots: Win/loss logic Win/Loss message
+Screenshots: Showcasing game
 ![hangman1](https://github.com/GANeffGA/project-hangman/assets/133476397/b8f8d8b5-fb17-4925-ae16-114ba8fd4964)
 ![hangman2](https://github.com/GANeffGA/project-hangman/assets/133476397/2b3e70d1-6fd7-41d5-ac03-a21c22e32c4c)
